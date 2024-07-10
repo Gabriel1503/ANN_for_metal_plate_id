@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/weights_per_layer
+/checkpoints
+/checkpoints_2
+/checkpoints_3
+/checkpoints_4
+/checkpoints_5
+.idea/
+__pycache__/
+loss_accuracy.csv
+loss_accuracy_2.csv
+loss_accuracy_3.csv
+loss_accuracy_4.csv
+loss_accuracy_5.csv
+input_training_data.json
+input_validation_data.json
